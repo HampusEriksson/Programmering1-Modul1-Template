@@ -2,7 +2,7 @@
 
 ## Repobeskrivning
 
-Dessa nio uppgifter är på en grundläggande nivå för att bli godkänd på denna modul. Dessa avhandlar begreppen variabel, input samt output.
+Dessa åtta uppgifter är på en grundläggande nivå för att bli godkänd på denna modul. Dessa avhandlar begreppen variabel, input samt output.
 
 Se till att ändra i kommentarerna så de innehåller korrekt information om dig, dvs datumet du påbörjade uppgiften och ditt namn.
 
